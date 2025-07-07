@@ -1,0 +1,29 @@
+ABSTRACT
+
+This project explores the automation of Flappy Bird using deep learning, focusing on training 
+an AI agent to autonomously play the game by learning from gameplay interactions. The AI 
+model analyses raw pixel-based game frames, extracts key features, and makes real-time 
+decisions to maximize survival. By leveraging reinforcement learning principles, the agent 
+interacts with the environment, continuously improving its decision-making through trial and 
+error. The model refines its strategy over time, adapting to different obstacle patterns and 
+improving overall gameplay performance. 
+A deep neural network is employed to process game states and predict the best actions based 
+on a reward-driven learning mechanism. The reinforcement learning model undergoes 
+extensive training, addressing challenges such as sparse rewards, exploration-exploitation 
+trade-offs, and stability issues. Advanced techniques like experience replay, adaptive 
+exploration, and prioritized memory sampling are integrated to optimize training efficiency 
+and learning stability. The AI continuously improves its decision-making accuracy, ensuring 
+smoother gameplay and better obstacle avoidance. 
+The study highlights the potential of deep learning in automating gameplay, demonstrating 
+that AI can effectively master even simple arcade-style games. The findings provide insights 
+into sequential decision-making, which can be applied to broader AI research, including 
+robotics, autonomous systems, and real-world adaptive learning environments. Furthermore, 
+this research explores how deep learning models trained on one game can be adapted to other 
+games with similar mechanics, improving AI generalization capabilities. 
+Future advancements in this field could focus on transfer learning, meta-learning, and multi
+game adaptation, allowing AI models to handle more complex gaming environments. 
+Enhancing training frameworks to improve learning speed and model robustness can further 
+contribute to AI-driven game automation, decision-making, and reinforcement learning 
+research. This study serves as a foundation for integrating AI into real-time applications, 
+bridging the gap between game automation and real-world decision-making tasks.
+
